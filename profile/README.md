@@ -16,6 +16,7 @@ controller in your home, with no dependency on a remote service.
 | [etm-powersync-energy-plugin-etm](https://github.com/ETM-Schurig/etm-powersync-energy-plugin-etm) | The energy engine: rule-based decisions, safety limits, optimizer protocol | GPL-3.0 |
 | [etm-powersync-plugins](https://github.com/ETM-Schurig/etm-powersync-plugins) | Device integrations (EV chargers, weather forecast, generic energy things) | GPL-3.0 |
 | [etm-powersync-plugins-modbus](https://github.com/ETM-Schurig/etm-powersync-plugins-modbus) | Modbus integrations (energy meters, inverters, SunSpec) | GPL-3.0 |
+| [etm-powersync-car](https://github.com/ETM-Schurig/etm-powersync-car) | Car manufacturer integrations (Škoda: battery level and charging state of the car) | GPL-3.0 |
 | [etm-powersync-remoteproxyclient](https://github.com/ETM-Schurig/etm-powersync-remoteproxyclient) | Remote access client library used by the controller | LGPL-3.0 |
 | [etm-powersync-docs](https://github.com/ETM-Schurig/etm-powersync-docs) | Source of docs.etm-powersync.fr (fr/de/en) | CC-BY-4.0 |
 
